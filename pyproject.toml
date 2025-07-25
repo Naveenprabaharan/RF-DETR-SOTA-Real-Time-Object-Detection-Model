@@ -1,0 +1,11 @@
+[project]
+name = "re-detr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "inference>=0.51.7",
+    "inference-cli>=0.51.7",
+    "rfdetr>=1.2.1",
+]
